@@ -1,0 +1,1010 @@
+x_id	y_id	prob	x_name	y_name
+490	1	0.7953	tessa arlen	allen eskens
+629	3	0.9998	catherine lowell	catherine gayle
+686	3	0.915	catherine armstrong	catherine gayle
+909	3	0.9986	catherine todd	catherine gayle
+170	4	0.9515	mark siegel	daniel j. siegel
+197	4	0.9515	mark siegel	daniel j. siegel
+90	4	0.9215	daniels	daniel j. siegel
+352	5	0.9625	debbie palen	debbie macomber
+776	7	0.9292	lori perkins	dolen perkins-valdez
+704	11	1.0	george r.	george r.r. martin
+448	11	0.9999	martin	george r.r. martin
+742	11	0.9775	lex martin	george r.r. martin
+799	11	0.8312	kat martin	george r.r. martin
+950	11	0.9999	martin	george r.r. martin
+3	12	0.9516	michael crichton	michael fertik
+171	12	0.9893	michael eric dyson	michael fertik
+209	12	0.9748	michael breus	michael fertik
+286	12	0.9058	michaela	michael fertik
+608	12	0.8316	michael benson	michael fertik
+755	12	0.9986	michael fletcher	michael fertik
+764	12	0.9516	michael clarkson	michael fertik
+816	12	0.7711	michael crummey	michael fertik
+322	14	0.8741	peter lodenius	peter h. diamandis
+51	15	0.9993	rachel caine	rachel joyce
+85	15	1.0	rachel	rachel joyce
+138	15	0.8668	rachel beller	rachel joyce
+152	15	0.9993	rachel caine	rachel joyce
+206	15	0.9993	rachel caine	rachel joyce
+269	15	0.9993	rachel caine	rachel joyce
+646	25	0.9973	marni jackson	a. l. jackson
+935	25	0.9999	k.m. jackson	a. l. jackson
+612	27	0.7863	walter dean myers	a. meredith walters
+613	27	0.7863	walter dean myers	a. meredith walters
+737	27	0.9872	meredith maran	a. meredith walters
+580	34	0.9046	david jacob	a.j. jacobs
+646	37	0.9984	marni jackson	a.l. jackson
+935	37	0.9999	k.m. jackson	a.l. jackson
+712	39	0.9808	kelly madden	a.m. madden
+30	41	0.9999	hannah harrison	a.s.a. harrison
+518	41	1.0	harrison	a.s.a. harrison
+827	41	0.9985	rory harrison	a.s.a. harrison
+108	44	0.9999	jason aaron	aaron allston
+964	44	0.9108	award rohan wilson	aaron allston
+555	46	0.8169	bacon freak	aaron franklin
+63	47	0.9991	james	aaron james draplin
+108	50	0.9971	jason aaron	aaron patterson
+63	54	1.0	james	abel james
+469	54	0.9988	brooke james	abel james
+521	54	0.9965	james beard	abel james
+671	54	0.933	james dashner	abel james
+682	54	0.9965	james beard	abel james
+708	54	0.9949	james hannibal	abel james
+552	55	0.9614	brad abraham	abraham verghese
+966	56	0.937	herman atkins	ace atkins
+555	58	0.8169	bacon freak	acton figueroa
+761	59	1.0	adam ruben	adam braun
+158	63	0.9456	adele faber	adam fawer
+354	64	0.8169	adam gustavson	adam gopnik
+761	65	0.987	adam ruben	adam grant
+892	65	0.987	alan gratz	adam grant
+465	67	0.9685	amy jones	adam johnson
+845	67	0.9311	kirk johnson	adam johnson
+761	69	0.7814	adam ruben	adam m. grant
+892	69	0.7814	alan gratz	adam m. grant
+713	72	0.9999	adam lamparello	adam markel
+761	72	0.9456	adam ruben	adam markel
+761	73	1.0	adam ruben	adam rubin
+909	78	0.9201	catherine todd	adapted by catherine
+342	84	0.9983	henry	adapted by henry gil
+877	93	0.9638	katherine applegate	adapted by katherine
+129	93	0.9201	katherine reay	adapted by katherine
+158	113	0.8169	adele faber	adele ashworth
+158	114	0.9456	adele faber	adele lang
+634	115	0.987	alice pung	adele puhn
+472	116	0.9809	madeline sheehan	adeline yen mah
+809	117	0.9714	adrian owen	adrian gostick
+809	118	0.8169	adrian owen	adriana hunter
+13	118	0.9858	faith hunter	adriana hunter
+77	118	0.9858	faith hunter	adriana hunter
+452	118	0.9928	georgia hunter	adriana hunter
+809	119	0.8169	adrian owen	adriana hunter
+13	119	0.9858	faith hunter	adriana hunter
+77	119	0.9858	faith hunter	adriana hunter
+452	119	0.9928	georgia hunter	adriana hunter
+809	120	0.8169	adrian owen	adriana hunter
+13	120	0.9858	faith hunter	adriana hunter
+77	120	0.9858	faith hunter	adriana hunter
+452	120	0.9928	georgia hunter	adriana hunter
+809	121	0.9996	adrian owen	adriana locke
+385	123	0.8246	cheryl ann smith	aerosmith
+674	123	0.9685	andrew smith	aerosmith
+260	125	0.8388	christie craig	agatha christie
+260	126	0.8388	christie craig	agatha christie
+48	133	0.9676	frank cole	al franken
+127	135	1.0	brenda michaels	al michaels
+209	135	0.9561	michael breus	al michaels
+286	135	0.9996	michaela	al michaels
+380	135	0.9994	walter benn michaels	al michaels
+608	135	0.8169	michael benson	al michaels
+622	135	0.9901	k.a. mitchell	al michaels
+755	135	0.9044	michael fletcher	al michaels
+764	135	0.9479	michael clarkson	al michaels
+923	135	0.9266	michelle markel	al michaels
+78	138	0.8618	alan friedman	alan alda
+264	138	0.8388	sandra allen	alan alda
+892	139	0.79	alan gratz	alan bradley
+147	140	0.9046	calista fox	alan c. fox
+892	144	0.8724	alan gratz	alan dershowitz
+78	145	0.9993	alan friedman	alan fine
+887	145	0.9814	caroline finkel	alan fine
+11	146	0.79	alan russell	alan furst
+892	146	0.987	alan gratz	alan furst
+78	147	0.9943	alan friedman	alan grant
+120	147	0.9625	ayn rand	alan grant
+892	147	1.0	alan gratz	alan grant
+78	148	0.9943	alan friedman	alan grant
+120	148	0.9625	ayn rand	alan grant
+892	148	1.0	alan gratz	alan grant
+78	149	0.9419	alan friedman	alan greenspan
+892	149	0.9722	alan gratz	alan greenspan
+243	149	0.9347	lisa gail green	alan greenspan
+108	150	0.9918	jason aaron	alan jacobson
+78	151	0.9766	alan friedman	alan lightman
+11	153	0.79	alan russell	alan moore
+11	154	0.79	alan russell	alan moore
+11	155	0.79	alan russell	alan moore
+11	156	0.79	alan russell	alan moore
+892	157	0.987	alan gratz	alan paton
+78	158	0.7695	alan friedman	alan richardson
+119	158	0.8252	richard stratton	alan richardson
+373	158	0.9815	doyin richards	alan richardson
+579	158	0.9625	jim richards	alan richardson
+767	158	0.9262	richard pearson	alan richardson
+283	159	0.9929	robert nathan	alan robertson
+426	159	0.9999	marc robertson	alan robertson
+669	159	0.9869	roberts	alan robertson
+949	159	1.0	robertson	alan robertson
+535	160	0.9836	shelley shepard gray	alan shepard
+78	161	0.9943	alan friedman	alan simon
+455	161	0.9722	helen simonson	alan simon
+872	161	0.9988	simona kaleva	alan simon
+892	162	0.79	alan gratz	alan tennant
+78	163	0.997	alan friedman	alan weisman
+337	163	0.9903	sam weinman	alan weisman
+569	167	0.9803	albatros	albert brooks
+627	167	0.9803	albatros	albert brooks
+954	167	0.9803	albatros	albert brooks
+166	174	0.8426	alessandro busa	alejandro junger
+390	174	0.9462	alexandra blogier	alejandro junger
+166	175	0.8426	alessandro busa	alessandra torre
+390	175	0.9462	alexandra blogier	alessandra torre
+166	176	0.8426	alessandro busa	alessandra torre
+390	176	0.9462	alexandra blogier	alessandra torre
+576	177	0.9932	alex jack	alex becker
+246	178	0.9419	alice anderson	alex berenson
+576	183	0.9262	alex jack	alex kava
+576	185	0.9999	alex jack	alex lake
+78	188	0.7695	alan friedman	alexander freed
+157	188	0.9998	meena alexander	alexander freed
+236	188	0.9999	alexander loyd	alexander freed
+328	188	0.9898	alexander smalls	alexander freed
+157	189	0.9908	meena alexander	alexander mccall smi
+236	189	0.9982	alexander loyd	alexander mccall smi
+328	189	1.0	alexander smalls	alexander mccall smi
+157	190	0.9796	meena alexander	alexander mccall smith
+236	190	0.995	alexander loyd	alexander mccall smith
+328	190	1.0	alexander smalls	alexander mccall smith
+144	191	0.9997	ann bracken	alexandra bracken
+157	191	0.915	meena alexander	alexandra bracken
+390	191	0.9937	alexandra blogier	alexandra bracken
+576	191	0.7708	alex jack	alexandra bracken
+144	192	0.9997	ann bracken	alexandra bracken
+157	192	0.915	meena alexander	alexandra bracken
+390	192	0.9937	alexandra blogier	alexandra bracken
+576	192	0.7708	alex jack	alexandra bracken
+157	193	0.9837	meena alexander	alexandra day
+166	193	0.791	alessandro busa	alexandra day
+236	193	0.9992	alexander loyd	alexandra day
+328	193	0.9893	alexander smalls	alexandra day
+390	193	0.9996	alexandra blogier	alexandra day
+390	194	1.0	alexandra blogier	alexandra fuller
+390	195	1.0	alexandra blogier	alexandra fuller
+390	196	0.9317	alexandra blogier	alexandra hawkins
+390	197	0.983	alexandra blogier	alexandra horowitz
+236	198	0.9992	alexander loyd	alexandra ivy
+390	198	0.9999	alexandra blogier	alexandra ivy
+236	199	0.9992	alexander loyd	alexandra ivy
+390	199	0.9999	alexandra blogier	alexandra ivy
+353	200	0.9938	andy riley	alexandra ripley
+390	200	0.9985	alexandra blogier	alexandra ripley
+236	201	0.8896	alexander loyd	alexandra robbins
+390	201	0.9937	alexandra blogier	alexandra robbins
+390	202	0.9997	alexandra blogier	alexandra sellers
+236	203	0.9906	alexander loyd	alexandra stoddard
+328	203	0.8644	alexander smalls	alexandra stoddard
+390	203	0.983	alexandra blogier	alexandra stoddard
+157	204	0.9861	meena alexander	alexandre dumas
+166	204	0.9343	alessandro busa	alexandre dumas
+236	204	0.9836	alexander loyd	alexandre dumas
+328	204	0.9999	alexander smalls	alexandre dumas
+285	205	0.9991	alexis morgan	alexis maybank
+634	211	0.8036	alice pung	alice  hoffman
+751	212	0.9561	alice adams	alice alfonsi
+791	213	0.9996	ken blanchard	alice blanchard
+246	214	0.9419	alice anderson	alice clayton
+634	214	0.8164	alice pung	alice clayton
+246	215	0.9419	alice anderson	alice clayton
+634	215	0.8164	alice pung	alice clayton
+634	216	0.9988	alice pung	alice duncan
+634	217	0.8164	alice pung	alice hoffman
+246	218	0.9571	alice anderson	alice low
+634	218	0.9429	alice pung	alice low
+246	219	0.9815	alice anderson	alice mcdermott
+246	220	0.9982	alice anderson	alice munro
+634	220	0.9997	alice pung	alice munro
+246	221	0.9419	alice anderson	alice randall
+634	221	0.8164	alice pung	alice randall
+246	228	0.9858	alice anderson	alice walker
+437	228	0.9999	julie ann walker	alice walker
+246	229	0.9999	alice anderson	alice waters
+13	230	0.8248	faith hunter	alicia hunter pace
+77	230	0.8248	faith hunter	alicia hunter pace
+800	232	0.9625	lisa scottoline	alicia scott
+994	235	0.791	alison goldberg	alison gaylin
+514	236	0.9998	alison mcghee	alison inches
+663	236	0.9561	alyson noel	alison inches
+514	237	0.9419	alison mcghee	alison maloney
+663	237	0.8169	alyson noel	alison maloney
+514	238	1.0	alison mcghee	alison mcghee
+994	238	0.7695	alison goldberg	alison mcghee
+514	239	1.0	alison mcghee	alison mcghee
+994	239	0.7695	alison goldberg	alison mcghee
+663	240	0.9561	alyson noel	alison pollet
+994	240	0.9956	alison goldberg	alison pollet
+663	241	0.9561	alyson noel	alison pollet
+994	241	0.9956	alison goldberg	alison pollet
+514	242	0.9991	alison mcghee	alison ritchie
+514	243	0.7695	alison mcghee	alison velzquez
+514	244	0.9858	alison mcghee	alison weir
+689	244	0.9912	weird al	alison weir
+994	244	0.9949	alison goldberg	alison weir
+11	245	0.9858	alan russell	allan borushek
+892	247	0.9722	alan gratz	allan gurganus
+514	254	0.9766	alison mcghee	allison leigh
+330	254	0.9561	jason lewis	allison leigh
+514	255	0.9766	alison mcghee	allison leigh
+330	255	0.9561	jason lewis	allison leigh
+515	260	1.0	ally condie	ally condie
+602	262	0.9561	arthur browne	alton brown
+370	262	0.9887	dan brown	alton brown
+371	262	0.9887	dan brown	alton brown
+907	262	0.9887	dan brown	alton brown
+34	266	0.9448	martine agassi	aly martinez
+448	266	0.9869	martin	aly martinez
+489	266	0.9858	carolyn marino	aly martinez
+742	266	0.9988	lex martin	aly martinez
+799	266	0.9988	kat martin	aly martinez
+950	266	0.9869	martin	aly martinez
+663	267	1.0	alyson noel	alyson nol
+994	267	0.8724	alison goldberg	alyson nol
+354	273	0.8169	adam gustavson	amada stone
+557	273	0.9561	amanda little	amada stone
+449	273	0.9561	juliana stone	amada stone
+526	273	0.8169	samantha towle	amada stone
+557	274	0.9766	amanda little	amanda ashley
+557	275	0.9766	amanda little	amanda ashley
+557	276	0.9766	amanda little	amanda ashley
+557	277	0.8668	amanda little	amanda berry
+578	277	0.9974	amanda weaver	amanda berry
+557	278	0.9766	amanda little	amanda coplin
+557	279	0.9766	amanda little	amanda coplin
+578	280	0.8668	amanda weaver	amanda cross
+578	281	0.9484	amanda weaver	amanda foreman
+312	281	0.9419	brian freeman	amanda foreman
+557	282	0.7695	amanda little	amanda goldberg
+578	282	0.7695	amanda weaver	amanda goldberg
+994	282	0.9978	alison goldberg	amanda goldberg
+67	283	0.9815	deborah hocking	amanda hocking
+108	285	0.9979	jason aaron	amanda jason
+578	285	0.8668	amanda weaver	amanda jason
+195	285	0.8914	jason eaton	amanda jason
+557	286	0.8091	amanda little	amanda knox
+578	286	0.8091	amanda weaver	amanda knox
+578	287	0.9998	amanda weaver	amanda kramer
+496	288	0.9986	mason williams	amanda kyle williams
+557	289	0.9956	amanda little	amanda lindhout
+557	290	0.9766	amanda little	amanda mccall
+145	291	0.8839	amanda filipacchi	amanda quick
+557	291	0.8668	amanda little	amanda quick
+168	291	0.9262	diana quincy	amanda quick
+557	292	0.997	amanda little	amanda scott
+97	293	0.9988	ann marie stephens	amanda stephens
+557	293	0.7695	amanda little	amanda stephens
+578	293	0.7695	amanda weaver	amanda stephens
+866	293	0.8724	ramona sen	amanda stephens
+557	294	0.9419	amanda little	amanda stevens
+578	294	0.9991	amanda weaver	amanda stevens
+866	294	0.9722	ramona sen	amanda stevens
+564	305	0.9262	daisy styles	amity shlaes
+526	306	0.8169	samantha towle	amor towles
+465	309	0.9932	amy jones	amy andrews
+635	310	0.9952	amy koko	amy bloom
+893	311	1.0	amy chua	amy chua
+893	312	0.9952	amy chua	amy cuddy
+893	316	0.9625	amy chua	amy harmon
+893	317	0.9625	amy chua	amy harmon
+465	320	0.8618	amy jones	amy jo martin
+448	320	1.0	martin	amy jo martin
+742	320	0.9784	lex martin	amy jo martin
+799	320	0.9987	kat martin	amy jo martin
+950	320	1.0	martin	amy jo martin
+488	321	1.0	amy krouse rosenthal	amy krouse rosenthal
+996	321	0.9851	rosenthal family	amy krouse rosenthal
+386	322	0.9904	joy wilson	amy lyles wilson
+465	324	0.9262	amy jones	amy morin
+465	325	0.9262	amy jones	amy myers
+612	325	0.792	walter dean myers	amy myers
+613	325	0.792	walter dean myers	amy myers
+274	326	0.9561	james preller	amy poehler
+893	327	0.9625	amy chua	amy robach
+465	328	0.9992	amy jones	amy rogers
+395	328	0.9082	rebecca rogers maher	amy rogers
+893	329	0.9996	amy chua	amy schumer
+465	331	0.9952	amy jones	amy sohn
+120	333	0.9516	ayn rand	amy tan
+893	333	0.9516	amy chua	amy tan
+246	340	0.8388	alice anderson	anderson cooper
+787	340	0.9861	pamela anderson	anderson cooper
+246	341	0.8388	alice anderson	anderson cooper
+787	341	0.9861	pamela anderson	anderson cooper
+674	343	0.9858	andrew smith	andie mitchell
+622	343	0.9999	k.a. mitchell	andie mitchell
+923	343	0.8814	michelle markel	andie mitchell
+34	344	0.9999	martine agassi	andre agassi
+273	347	0.997	andrea portes	andre norton
+378	347	0.9668	andrew nurnberg	andre norton
+242	348	0.9815	andrea boeshaar	andrea barrett
+273	348	0.9484	andrea portes	andrea barrett
+291	348	0.9419	andrew shvart	andrea barrett
+242	349	0.9994	andrea boeshaar	andrea beaty
+273	349	0.8668	andrea portes	andrea beaty
+339	349	0.9262	andrew mayne	andrea beaty
+242	350	0.7695	andrea boeshaar	andrea cremer
+273	350	0.9766	andrea portes	andrea cremer
+378	350	0.7695	andrew nurnberg	andrea cremer
+242	351	0.9843	andrea boeshaar	andrea j. buchanan
+242	352	0.9566	andrea boeshaar	andrea kane
+273	352	0.9858	andrea portes	andrea kane
+339	352	0.9999	andrew mayne	andrea kane
+862	352	0.9932	anna kang	andrea kane
+273	353	0.9367	andrea portes	andrea posner-sanchez
+547	353	0.9995	posner	andrea posner-sanchez
+273	354	0.9956	andrea portes	andrei codrescu
+339	355	0.9625	andrew mayne	andrew bacevich
+674	355	0.9625	andrew smith	andrew bacevich
+242	356	0.8252	andrea boeshaar	andrew breitbart
+291	356	0.9879	andrew shvart	andrew breitbart
+378	356	0.8252	andrew nurnberg	andrew breitbart
+674	356	0.9237	andrew smith	andrew breitbart
+104	357	0.9262	andrew jennings	andrew burstein
+273	357	0.791	andrea portes	andrew burstein
+291	357	0.7695	andrew shvart	andrew burstein
+378	357	0.9262	andrew nurnberg	andrew burstein
+674	357	0.9625	andrew smith	andrew burstein
+291	358	0.9419	andrew shvart	andrew carroll
+339	358	0.8158	andrew mayne	andrew carroll
+339	359	0.9625	andrew mayne	andrew davidson
+104	360	0.9625	andrew jennings	andrew gross
+291	360	0.8668	andrew shvart	andrew gross
+674	360	0.9262	andrew smith	andrew gross
+291	361	0.8668	andrew shvart	andrew grove
+339	361	0.9262	andrew mayne	andrew grove
+378	361	0.9625	andrew nurnberg	andrew grove
+104	362	0.9625	andrew jennings	andrew heron
+291	362	0.997	andrew shvart	andrew heron
+339	362	0.9262	andrew mayne	andrew heron
+378	362	0.9625	andrew nurnberg	andrew heron
+674	362	0.9262	andrew smith	andrew heron
+104	363	0.7695	andrew jennings	andrew hodges
+242	363	0.7695	andrea boeshaar	andrew hodges
+273	363	0.9766	andrea portes	andrew hodges
+339	363	0.8668	andrew mayne	andrew hodges
+674	363	0.8668	andrew smith	andrew hodges
+291	364	0.9766	andrew shvart	andrew klavan
+339	364	0.997	andrew mayne	andrew klavan
+273	366	0.9766	andrea portes	andrew morton
+291	366	0.9766	andrew shvart	andrew morton
+339	366	0.997	andrew mayne	andrew morton
+674	366	0.997	andrew smith	andrew morton
+339	367	0.9971	andrew mayne	andrew neiderman
+378	367	0.8252	andrew nurnberg	andrew neiderman
+291	368	0.8668	andrew shvart	andrew pyper
+339	368	0.9993	andrew mayne	andrew pyper
+378	368	0.9625	andrew nurnberg	andrew pyper
+674	369	0.8248	andrew smith	andrew ross sorkin
+339	370	0.9361	andrew mayne	andrew sean greer
+339	371	0.9858	andrew mayne	andrew solomon
+674	371	0.9858	andrew smith	andrew solomon
+104	372	0.7695	andrew jennings	andrew tobias
+339	372	0.8668	andrew mayne	andrew tobias
+674	372	0.8668	andrew smith	andrew tobias
+291	373	0.9766	andrew shvart	andrew vachss
+339	373	0.8668	andrew mayne	andrew vachss
+674	373	0.8668	andrew smith	andrew vachss
+104	374	0.9949	andrew jennings	andrew weil
+291	374	0.8091	andrew shvart	andrew weil
+339	374	0.9928	andrew mayne	andrew weil
+378	374	0.9566	andrew nurnberg	andrew weil
+674	374	0.9928	andrew smith	andrew weil
+104	375	0.9949	andrew jennings	andrew weil
+291	375	0.8091	andrew shvart	andrew weil
+339	375	0.9928	andrew mayne	andrew weil
+378	375	0.9566	andrew nurnberg	andrew weil
+674	375	0.9928	andrew smith	andrew weil
+104	376	0.9625	andrew jennings	andrew young
+339	376	0.9993	andrew mayne	andrew young
+378	376	0.9625	andrew nurnberg	andrew young
+652	376	0.9999	jared young	andrew young
+339	378	0.9933	andrew mayne	andy andrews
+739	379	0.9625	ann shen	andy cohen
+339	382	0.9262	andrew mayne	andy mangels
+339	383	0.9262	andrew mayne	andy mangels
+353	387	0.9997	andy riley	andy rooney
+578	389	0.8618	amanda weaver	andy weir
+689	389	0.9563	weird al	andy weir
+339	390	0.9903	andrew mayne	angel payne
+793	390	0.9561	daniel palmer	angel payne
+862	396	0.8618	anna kang	angela knight
+862	397	0.8618	anna kang	angela knight
+862	398	0.8618	anna kang	angela knight
+862	399	0.8618	anna kang	angela knight
+457	401	0.8169	malka marom	angela marsons
+73	403	0.9561	anne nelson	angie daniels
+958	403	0.8292	daniel albert	angie daniels
+90	403	1.0	daniels	angie daniels
+34	405	0.9991	martine agassi	angie martinez
+742	405	0.9722	lex martin	angie martinez
+799	405	0.9722	kat martin	angie martinez
+385	410	0.9479	cheryl ann smith	angie smith
+674	410	0.9999	andrew smith	angie smith
+656	412	0.9419	ann mcelhinney	anita clenney
+960	413	1.0	anita diamant	anita diamant
+985	414	0.9456	mike mills	anita mills
+960	415	0.9419	anita diamant	anita moorjani
+73	420	0.9997	anne nelson	ann benson
+144	420	0.9456	ann bracken	ann benson
+739	420	0.9625	ann shen	ann benson
+38	420	0.9988	bryan denson	ann benson
+608	420	0.8985	michael benson	ann benson
+144	421	0.9561	ann bracken	ann brashares
+739	421	0.9803	ann shen	ann brashares
+144	422	0.8169	ann bracken	ann braybrooks
+1	423	0.9699	charles sykes	ann charles
+21	423	0.9747	charles swayne	ann charles
+212	423	0.9845	charles king	ann charles
+309	423	0.9999	charles mann	ann charles
+548	423	0.9331	charles fishman	ann charles
+639	423	0.9973	charles casillo	ann charles
+919	423	0.9759	charles belfoure	ann charles
+980	423	0.9859	charles d'ambrosio	ann charles
+244	427	0.9982	ann vanderlaan	ann landers
+246	427	0.8169	alice anderson	ann landers
+341	427	0.9978	dana langer	ann landers
+37	428	1.0	iain lawrence	ann lawrence
+105	428	0.9992	mark lawrence	ann lawrence
+365	429	0.9685	ann walmsley	ann leary
+365	430	0.9685	ann walmsley	ann lloyd
+448	432	1.0	martin	ann m. martin
+742	432	0.9886	lex martin	ann m. martin
+799	432	0.9993	kat martin	ann m. martin
+950	432	1.0	martin	ann m. martin
+144	436	0.9997	ann bracken	ann packer
+365	439	0.79	ann walmsley	ann romney
+656	439	0.9722	ann mcelhinney	ann romney
+353	440	0.9625	andy riley	ann rule
+156	443	0.9957	ana maria machado	ann-marie macdonald
+144	446	0.8169	ann bracken	anna godbersen
+739	446	0.9058	ann shen	anna godbersen
+739	448	0.9058	ann shen	anna pasternak
+821	448	0.8169	anna silver	anna pasternak
+821	449	0.9561	anna silver	anna quindlen
+845	455	0.8037	kirk johnson	anne akers johnson
+144	459	0.9932	ann bracken	anne byrn
+73	460	0.9456	anne nelson	anne eames
+365	460	0.79	ann walmsley	anne eames
+131	460	0.9988	dianne emley	anne eames
+120	463	0.9625	ayn rand	anne frank
+144	463	0.9456	ann bracken	anne frank
+48	463	0.9214	frank cole	anne frank
+555	463	0.9456	bacon freak	anne frank
+120	464	0.9625	ayn rand	anne frank
+144	464	0.9456	ann bracken	anne frank
+48	464	0.9214	frank cole	anne frank
+555	464	0.9456	bacon freak	anne frank
+821	465	0.9903	anna silver	anne frasier
+177	468	0.8314	george christie	anne george
+196	468	0.9576	george o'connor	anne george
+704	468	0.9992	george r.	anne george
+876	468	0.9622	george beahm	anne george
+739	470	0.9625	ann shen	anne heche
+739	471	0.9058	ann shen	anne hillerman
+821	471	0.8169	anna silver	anne hillerman
+365	475	0.9262	ann walmsley	anne mallory
+97	476	0.9961	ann marie stephens	anne marie winston
+97	477	0.9106	ann marie stephens	anne marsh
+739	477	0.9625	ann shen	anne marsh
+596	477	0.8164	jeffrey marsh	anne marsh
+97	478	0.9106	ann marie stephens	anne marsh
+739	478	0.9625	ann shen	anne marsh
+596	478	0.8164	jeffrey marsh	anne marsh
+179	489	0.9943	jeanine pirro	anne perry
+144	490	0.9932	ann bracken	anne rice
+904	490	1.0	luanne rice	anne rice
+904	491	0.962	luanne rice	anne rice (anne ramp
+739	494	0.9625	ann shen	anne sebba
+291	495	0.9561	andrew shvart	anne stuart
+265	495	0.8838	stuart prebble	anne stuart
+291	496	0.9561	andrew shvart	anne stuart
+265	496	0.8838	stuart prebble	anne stuart
+821	497	0.9456	anna silver	anne tyler
+83	497	0.79	nancy thayer	anne tyler
+883	497	0.79	nancy thayer	anne tyler
+350	498	0.9766	jennifer ryan	annelise ryan
+333	500	0.9254	annette herfkens	annette blair
+333	501	0.9254	annette herfkens	annette blair
+144	502	0.88	ann bracken	annette broadrick
+144	503	0.88	ann bracken	annette broadrick
+333	504	0.8252	annette herfkens	annette dashofy
+144	509	0.8169	ann bracken	annie jacobsen
+739	509	0.9058	ann shen	annie jacobsen
+580	509	0.8169	david jacob	annie jacobsen
+73	513	0.9903	anne nelson	annie pigeon
+218	515	0.8169	daniel raeburn	annie rains
+350	515	0.9561	jennifer ryan	annie rains
+73	516	0.9456	anne nelson	annie west
+242	519	0.9625	andrea boeshaar	anthea sharp
+144	521	0.8169	ann bracken	anthony bourke
+353	525	0.79	andy riley	anthony grey
+739	526	0.9058	ann shen	anthony holden
+482	530	0.7695	john robinson	anthony robbins
+779	531	0.9685	joya ryan	anthony ryan
+88	536	0.9385	william vollmann	anthony william
+194	536	0.9759	william germano	anthony william
+496	536	0.9997	mason williams	anthony william
+599	536	0.9978	whitney william	anthony william
+774	536	0.9994	kathy willis	anthony william
+885	536	0.837	william barre	anthony william
+821	543	0.8169	anna silver	antonia fraser
+465	548	0.9111	amy jones	aphrodite jones
+385	549	0.9479	cheryl ann smith	april smith
+674	549	0.9903	andrew smith	april smith
+232	553	0.79	jill shalvis	ari shavit
+66	555	0.9325	richmond	arianne richmonde
+904	555	0.88	luanne rice	arianne richmonde
+490	557	0.8914	tessa arlen	arlene james
+63	557	1.0	james	arlene james
+469	557	0.9262	brooke james	arlene james
+521	557	0.8914	james beard	arlene james
+671	557	0.9436	james dashner	arlene james
+682	557	0.8914	james beard	arlene james
+108	562	0.9956	jason aaron	aron ralston
+385	564	0.9728	cheryl ann smith	art smith
+674	564	0.9999	andrew smith	art smith
+95	564	0.8139	lauren smith brody	art smith
+245	564	0.9949	hyrum smith	art smith
+970	564	0.9941	christian smith	art smith
+170	565	0.9982	mark siegel	art spiegelman
+197	565	0.9982	mark siegel	art spiegelman
+602	571	0.7707	arthur browne	arthur b. laffer
+602	572	0.9956	arthur browne	arthur c. brooks
+602	573	0.7707	arthur browne	arthur c. clarke
+927	573	0.9588	ed clarke	arthur c. clarke
+602	574	0.7707	arthur browne	arthur c. clarke
+927	574	0.9588	ed clarke	arthur c. clarke
+602	575	0.9108	arthur browne	arthur conan doyle
+602	576	0.9766	arthur browne	arthur golden
+602	578	0.9766	arthur browne	arthur herman
+966	578	0.8292	herman atkins	arthur herman
+683	580	0.7994	camille aubray	arthur miller
+214	581	0.9998	patrick phillips	arthur phillips
+374	581	0.9691	phillip carlo	arthur phillips
+104	586	0.9738	andrew jennings	asa andrew
+291	586	0.9995	andrew shvart	asa andrew
+339	586	0.9964	andrew mayne	asa andrew
+378	586	0.8674	andrew nurnberg	asa andrew
+674	586	0.9964	andrew smith	asa andrew
+391	593	0.8902	whitney gardner	ashley gardner
+391	594	0.8902	whitney gardner	ashley gardner
+223	596	0.8091	ashley elston	ashley judd
+223	597	0.997	ashley elston	ashley smith
+385	597	0.9944	cheryl ann smith	ashley smith
+674	597	0.9262	andrew smith	ashley smith
+245	597	0.9903	hyrum smith	ashley smith
+128	598	1.0	ashlyn macnamara	ashlyn macnamara
+750	602	0.88	darcey rosenblatt	aubrey rose
+738	611	0.9912	jason reynolds	aurora rose reynolds
+427	616	0.8169	tove alsterdal	avery aster
+120	621	1.0	ayn rand	ayn rand
+239	621	0.9912	randi ragan	ayn rand
+212	626	0.8489	charles king	b.b. king
+724	626	0.9913	deborah king	b.b. king
+90	628	1.0	daniels	b.j. daniels
+469	629	0.9821	brooke james	b.j. james
+521	629	0.9474	james beard	b.j. james
+682	629	0.9474	james beard	b.j. james
+63	629	1.0	james	b.j. james
+438	630	0.9753	ali novak	b.j. novak
+28	631	0.9987	john harvey	bj harvey
+437	633	0.9831	julie ann walker	babe walker
+165	634	0.9993	christine bailey	bailey white
+81	635	0.79	brian keyser	baine kerr
+163	644	0.9516	barbara lowell	barbara bickmore
+459	644	0.9766	barbara coloroso	barbara bickmore
+765	644	0.9766	barbara coloroso	barbara bickmore
+163	645	1.0	barbara lowell	barbara boswell
+270	645	0.8252	barbara j zitwer	barbara boswell
+459	645	0.8252	barbara coloroso	barbara boswell
+765	645	0.8252	barbara coloroso	barbara boswell
+163	646	0.7711	barbara lowell	barbara bretton
+556	646	0.9845	barbara streisand	barbara bretton
+163	647	0.9712	barbara lowell	barbara bush
+270	647	0.9128	barbara j zitwer	barbara bush
+459	647	0.9893	barbara coloroso	barbara bush
+556	647	0.983	barbara streisand	barbara bush
+765	647	0.9893	barbara coloroso	barbara bush
+459	648	1.0	barbara coloroso	barbara coloroso
+765	648	1.0	barbara coloroso	barbara coloroso
+163	648	0.9516	barbara lowell	barbara coloroso
+163	650	0.9269	barbara lowell	barbara deangelis
+556	650	0.7905	barbara streisand	barbara deangelis
+163	651	0.9516	barbara lowell	barbara delinsky
+163	652	0.9516	barbara lowell	barbara delinsky
+163	653	0.9518	barbara lowell	barbara delinsky/kel
+163	654	0.9928	barbara lowell	barbara dunlop
+459	654	0.9516	barbara coloroso	barbara dunlop
+765	654	0.9516	barbara coloroso	barbara dunlop
+163	656	0.8316	barbara lowell	barbara feethy
+163	657	0.7711	barbara lowell	barbara freethy
+163	658	0.8316	barbara lowell	barbara hambly
+556	659	0.9394	barbara streisand	barbara keesling
+163	660	0.8893	barbara lowell	barbara kingsolver
+270	660	0.8489	barbara j zitwer	barbara kingsolver
+459	660	0.8489	barbara coloroso	barbara kingsolver
+765	660	0.8489	barbara coloroso	barbara kingsolver
+163	661	0.8893	barbara lowell	barbara kingsolver
+270	661	0.8489	barbara j zitwer	barbara kingsolver
+459	661	0.8489	barbara coloroso	barbara kingsolver
+765	661	0.8489	barbara coloroso	barbara kingsolver
+163	662	0.9815	barbara lowell	barbara leaming
+556	662	0.9845	barbara streisand	barbara leaming
+163	663	0.7711	barbara lowell	barbara mcmahon
+459	663	0.8252	barbara coloroso	barbara mcmahon
+765	663	0.8252	barbara coloroso	barbara mcmahon
+127	664	0.9998	brenda michaels	barbara michaels
+163	664	0.9516	barbara lowell	barbara michaels
+209	664	0.9566	michael breus	barbara michaels
+459	664	0.9766	barbara coloroso	barbara michaels
+765	664	0.9766	barbara coloroso	barbara michaels
+163	665	0.9991	barbara lowell	barbara olson
+459	665	1.0	barbara coloroso	barbara olson
+556	665	0.9858	barbara streisand	barbara olson
+765	665	1.0	barbara coloroso	barbara olson
+163	666	0.9712	barbara lowell	barbara park
+270	666	0.9893	barbara j zitwer	barbara park
+459	666	0.9893	barbara coloroso	barbara park
+556	666	0.983	barbara streisand	barbara park
+765	666	0.9893	barbara coloroso	barbara park
+163	667	0.9712	barbara lowell	barbara park
+270	667	0.9893	barbara j zitwer	barbara park
+459	667	0.9893	barbara coloroso	barbara park
+556	667	0.983	barbara streisand	barbara park
+765	667	0.9893	barbara coloroso	barbara park
+163	668	0.9712	barbara lowell	barbara park
+270	668	0.9893	barbara j zitwer	barbara park
+459	668	0.9893	barbara coloroso	barbara park
+556	668	0.983	barbara streisand	barbara park
+765	668	0.9893	barbara coloroso	barbara park
+163	669	0.8316	barbara lowell	barbara parker
+270	669	0.9516	barbara j zitwer	barbara parker
+556	669	0.9269	barbara streisand	barbara parker
+270	670	0.9254	barbara j zitwer	barbara quick
+459	670	0.9254	barbara coloroso	barbara quick
+556	670	0.8877	barbara streisand	barbara quick
+765	670	0.9254	barbara coloroso	barbara quick
+482	671	0.986	john robinson	barbara robinson
+573	671	0.9527	maggie robinson	barbara robinson
+697	671	0.986	mike robinson	barbara robinson
+459	671	0.9993	barbara coloroso	barbara robinson
+765	671	0.9993	barbara coloroso	barbara robinson
+163	672	1.0	barbara lowell	barbara rolls
+270	672	0.9254	barbara j zitwer	barbara rolls
+459	672	0.9998	barbara coloroso	barbara rolls
+556	672	0.8877	barbara streisand	barbara rolls
+765	672	0.9998	barbara coloroso	barbara rolls
+556	673	0.9845	barbara streisand	barbara shangle
+163	673	0.9815	barbara lowell	barbara shangle
+556	674	0.998	barbara streisand	barbara sher
+163	674	0.9966	barbara lowell	barbara sher
+270	674	0.9988	barbara j zitwer	barbara sher
+459	674	0.9893	barbara coloroso	barbara sher
+765	674	0.9893	barbara coloroso	barbara sher
+556	675	0.998	barbara streisand	barbara sher
+163	675	0.9966	barbara lowell	barbara sher
+270	675	0.9988	barbara j zitwer	barbara sher
+459	675	0.9893	barbara coloroso	barbara sher
+765	675	0.9893	barbara coloroso	barbara sher
+556	676	0.9996	barbara streisand	barbara sinatra
+270	676	0.9943	barbara j zitwer	barbara sinatra
+163	679	0.9966	barbara lowell	barbara vine
+270	679	0.9988	barbara j zitwer	barbara vine
+459	679	0.9128	barbara coloroso	barbara vine
+556	679	0.983	barbara streisand	barbara vine
+765	679	0.9128	barbara coloroso	barbara vine
+163	680	0.9815	barbara lowell	barbara walters
+270	680	0.9943	barbara j zitwer	barbara walters
+459	680	0.9943	barbara coloroso	barbara walters
+765	680	0.9943	barbara coloroso	barbara walters
+163	681	0.9986	barbara lowell	barbara williams
+885	681	0.9999	william barre	barbara williams
+496	681	0.9911	mason williams	barbara williams
+556	682	1.0	barbara streisand	barbra streisand
+451	684	1.0	barry	barry eisler
+451	685	1.0	barry	barry elz
+451	686	1.0	barry	barry lyga
+451	687	1.0	barry	barry miles
+451	688	1.0	barry	barry reed
+586	689	0.9561	daryl sanders	barry sears
+451	689	1.0	barry	barry sears
+586	690	0.9561	daryl sanders	barry sears
+451	690	1.0	barry	barry sears
+170	691	0.9999	mark siegel	barry siegel
+197	691	0.9999	mark siegel	barry siegel
+263	691	0.9858	kathryn siebel	barry siegel
+451	691	1.0	barry	barry siegel
+351	694	0.8838	bree barton	barton gellman
+885	702	0.9975	william barre	beatriz williams
+496	702	0.9911	mason williams	beatriz williams
+774	702	0.8353	kathy willis	beatriz williams
+932	703	0.9661	carol campbell	bebe moore campbell
+161	705	0.9956	brendan brazier	belinda bauer
+242	706	0.8567	andrea boeshaar	bella andre
+242	708	0.8567	andrea boeshaar	bella andre
+242	709	0.8567	andrea boeshaar	bella andre
+242	710	0.8567	andrea boeshaar	bella andre
+242	711	0.8567	andrea boeshaar	bella andre
+844	717	0.79	bill cameron	ben carson
+531	717	0.9943	beth harbison	ben carson
+894	717	0.9625	ben parr	ben carson
+844	719	0.79	bill cameron	ben carson
+531	719	0.9943	beth harbison	ben carson
+894	719	0.9625	ben parr	ben carson
+894	723	0.9625	ben parr	ben lerner
+894	726	0.9582	ben parr	ben r. rich
+75	728	0.9456	betsy schow	ben schoen
+739	728	0.9625	ann shen	ben schoen
+75	729	0.9456	betsy schow	ben schott
+487	729	0.933	scott reardon	ben schott
+813	729	0.9839	scott mcewen	ben schott
+405	733	0.8565	melanie benjamin	benjamin graham
+758	733	0.96	benjamin carter hett	benjamin graham
+856	733	0.9982	benjamin adams	benjamin graham
+758	734	0.9893	benjamin carter hett	benjamin hoff
+405	734	0.9735	melanie benjamin	benjamin hoff
+856	734	0.9749	benjamin adams	benjamin hoff
+636	740	0.999	leonard goldberg	bernard goldberg
+994	740	0.9527	alison goldberg	bernard goldberg
+99	749	0.9085	elizabeth heaney	beth hahn
+531	749	0.9993	beth harbison	beth hahn
+47	749	0.9886	beth ain	beth hahn
+439	749	0.9262	beth cato	beth hahn
+582	749	0.9685	beth wareham	beth hahn
+30	750	0.7695	hannah harrison	beth harbison
+518	750	0.9803	harrison	beth harbison
+531	750	1.0	beth harbison	beth harbison
+439	750	0.8618	beth cato	beth harbison
+531	751	0.997	beth harbison	beth harwood
+439	751	0.9685	beth cato	beth harwood
+688	752	0.9814	elizabeth kelly	beth kery
+237	753	0.7994	best wine blog	beth kobliner
+582	754	0.79	beth wareham	beth moore
+439	757	0.8618	beth cato	bethany chase
+817	757	0.8683	caleb behn	bethany chase
+562	765	0.9843	lee	bette lee crosby
+843	771	0.9793	budd friedman	betty friedan
+510	777	0.9421	beverly jones	beverly ann donofrio
+853	777	0.788	beverly conyers	beverly ann donofrio
+351	778	0.9982	bree barton	beverly barton
+494	778	0.8158	chris barton	beverly barton
+510	778	0.9013	beverly jones	beverly barton
+351	779	0.9982	bree barton	beverly barton
+494	779	0.8158	chris barton	beverly barton
+510	779	0.9013	beverly jones	beverly barton
+853	780	0.8252	beverly conyers	beverly charette
+510	780	0.9254	beverly jones	beverly charette
+853	781	0.9956	beverly conyers	beverly clark
+510	781	0.8636	beverly jones	beverly clark
+853	782	0.9815	beverly conyers	beverly cleary
+510	782	0.9748	beverly jones	beverly cleary
+510	783	1.0	beverly jones	beverly jenkins
+853	783	0.9343	beverly conyers	beverly jenkins
+510	784	0.9998	beverly jones	beverly lewis
+853	784	0.9956	beverly conyers	beverly lewis
+510	785	0.9956	beverly jones	beverly preston
+853	785	0.9262	beverly conyers	beverly preston
+510	786	0.9991	beverly jones	bevery jenkins
+424	788	0.79	bill baldwin	bill amend
+844	788	0.8952	bill cameron	bill amend
+844	791	0.9903	bill cameron	bill bryson
+758	795	0.9246	benjamin carter hett	bill carter
+844	795	0.9999	bill cameron	bill carter
+592	796	0.79	bill clinton	bill clegg
+844	796	0.79	bill cameron	bill clegg
+592	797	1.0	bill clinton	bill clinton
+844	797	0.9262	bill cameron	bill clinton
+592	798	0.79	bill clinton	bill cosby
+844	798	0.79	bill cameron	bill cosby
+592	799	0.79	bill clinton	bill cosby
+844	799	0.79	bill cameron	bill cosby
+592	800	0.79	bill clinton	bill cosby
+844	800	0.79	bill cameron	bill cosby
+592	801	0.79	bill clinton	bill cosby
+844	801	0.79	bill cameron	bill cosby
+592	802	0.79	bill clinton	bill cosby
+844	802	0.79	bill cameron	bill cosby
+592	803	0.79	bill clinton	bill cosby
+844	803	0.79	bill cameron	bill cosby
+592	807	0.79	bill clinton	bill frist
+844	808	0.79	bill cameron	bill gates
+844	809	0.79	bill cameron	bill gates
+592	810	0.79	bill clinton	bill geist
+844	811	0.79	bill cameron	bill gertz
+844	812	0.9903	bill cameron	bill glazer
+636	813	0.9674	leonard goldberg	bill goldberg
+994	813	0.999	alison goldberg	bill goldberg
+844	816	0.9903	bill cameron	bill madden
+712	816	0.9999	kelly madden	bill madden
+844	817	0.9988	bill cameron	bill maher
+448	818	1.0	martin	bill martin jr.
+742	818	0.9969	lex martin	bill martin jr.
+799	818	0.9552	kat martin	bill martin jr.
+950	818	1.0	martin	bill martin jr.
+448	819	1.0	martin	bill martin jr.
+742	819	0.9969	lex martin	bill martin jr.
+799	819	0.9552	kat martin	bill martin jr.
+950	819	1.0	martin	bill martin jr.
+448	820	1.0	martin	bill martin jr.
+742	820	0.9969	lex martin	bill martin jr.
+799	820	0.9552	kat martin	bill martin jr.
+950	820	1.0	martin	bill martin jr.
+844	821	0.9858	bill cameron	bill mcdermott
+986	822	0.9928	diana murray	bill murray
+844	823	0.9903	bill cameron	bill napier
+592	824	0.8248	bill clinton	bill nye
+844	824	0.8248	bill cameron	bill nye
+448	827	0.9839	martin	bill o'reilly and martin dugard
+950	827	0.9839	martin	bill o'reilly and martin dugard
+448	828	0.9839	martin	bill o'reilly and martin dugard
+950	828	0.9839	martin	bill o'reilly and martin dugard
+214	835	0.9984	patrick phillips	bill phillips
+374	835	0.9112	phillip carlo	bill phillips
+214	836	0.9984	patrick phillips	bill phillips
+374	836	0.9112	phillip carlo	bill phillips
+844	838	0.9999	bill cameron	bill sammon
+592	840	0.9993	bill clinton	bill scollon
+844	840	0.9262	bill cameron	bill scollon
+592	841	0.9262	bill clinton	bill simmons
+844	841	0.9262	bill cameron	bill simmons
+844	842	0.9999	bill cameron	bill watterson
+844	843	0.79	bill cameron	bill zehme
+59	851	0.7695	blanche vaughan	blaine harden
+791	851	0.9992	ken blanchard	blaine harden
+643	852	0.997	laird barron	blair babylon
+729	853	0.8914	rosie blake	blake crouch
+173	854	0.997	luke harris	blake j. harris
+397	854	0.9287	charlaine harris	blake j. harris
+729	855	0.9994	rosie blake	blake mycoskie
+720	870	0.8264	bodeen	bob greene
+888	870	0.8264	bodeen	bob greene
+720	872	0.8264	bodeen	bob greene
+888	872	0.8264	bodeen	bob greene
+720	873	0.8264	bodeen	bob greene
+888	873	0.8264	bodeen	bob greene
+720	874	0.8264	bodeen	bob greene
+888	874	0.8264	bodeen	bob greene
+126	875	0.9355	harper lee	bob harper
+149	875	0.865	steven harper	bob harper
+278	875	0.9564	harper st. george	bob harper
+667	875	0.9456	bob pfeifer	bob harper
+126	876	0.9355	harper lee	bob harper
+149	876	0.865	steven harper	bob harper
+278	876	0.9564	harper st. george	bob harper
+667	876	0.9456	bob pfeifer	bob harper
+126	877	0.9355	harper lee	bob harper
+149	877	0.865	steven harper	bob harper
+278	877	0.9564	harper st. george	bob harper
+667	877	0.9456	bob pfeifer	bob harper
+126	878	0.9355	harper lee	bob harper
+149	878	0.865	steven harper	bob harper
+278	878	0.9564	harper st. george	bob harper
+667	878	0.9456	bob pfeifer	bob harper
+73	882	0.9944	anne nelson	bob nelson
+835	882	0.9784	maggie nelson	bob nelson
+810	884	0.9262	robin roe	bob rosen
+280	884	0.9685	bobbie pyron	bob rosen
+667	885	0.9561	bob pfeifer	bob schieffer
+667	886	0.9561	bob pfeifer	bob sehlinger
+280	889	0.9999	bobbie pyron	bobbi brown
+280	892	0.9915	bobbie pyron	bobby brown
+720	893	0.9998	bodeen	bobby deen
+888	893	0.9998	bodeen	bobby deen
+28	897	0.921	john harvey	bonnie harvey
+113	900	1.0	brunner	borgna brunner
+199	902	0.9669	brandon sanderson	brad ferguson
+419	902	0.9669	brandon sanderson	brad ferguson
+870	902	0.9669	brandon sanderson	brad ferguson
+393	910	0.9784	trevor lai	bradley trevor greiv
+521	912	0.9355	james beard	brady games
+682	912	0.9355	james beard	brady games
+199	916	0.8682	brandon sanderson	brandon mull
+419	916	0.8682	brandon sanderson	brandon mull
+870	916	0.8682	brandon sanderson	brandon mull
+910	916	0.9591	joyce brandon	brandon mull
+199	917	0.8682	brandon sanderson	brandon mull
+419	917	0.8682	brandon sanderson	brandon mull
+870	917	0.8682	brandon sanderson	brandon mull
+910	917	0.9591	joyce brandon	brandon mull
+199	918	1.0	brandon sanderson	brandon sanderson
+419	918	1.0	brandon sanderson	brandon sanderson
+870	918	1.0	brandon sanderson	brandon sanderson
+38	918	0.9927	bryan denson	brandon sanderson
+119	919	0.8252	richard stratton	brandon stanton
+199	919	1.0	brandon sanderson	brandon stanton
+419	919	1.0	brandon sanderson	brandon stanton
+870	919	1.0	brandon sanderson	brandon stanton
+910	919	0.837	joyce brandon	brandon stanton
+199	920	0.983	brandon sanderson	brandon webb
+419	920	0.983	brandon sanderson	brandon webb
+870	920	0.983	brandon sanderson	brandon webb
+910	920	0.9926	joyce brandon	brandon webb
+600	921	0.9191	cora brent	brant cooper
+927	922	0.9953	ed clarke	breena clarke
+127	922	0.7695	brenda michaels	breena clarke
+127	923	0.9625	brenda michaels	brenda hiatt
+935	924	0.9669	k.m. jackson	brenda jackson
+935	925	0.9669	k.m. jackson	brenda jackson
+935	926	0.9669	k.m. jackson	brenda jackson
+127	927	0.9625	brenda michaels	brenda joyce
+910	927	0.999	joyce brandon	brenda joyce
+127	928	0.9287	brenda michaels	brenda k. davies
+438	929	0.9899	ali novak	brenda novak
+127	930	0.7695	brenda michaels	brenda watson
+107	930	1.0	watson	brenda watson
+400	930	0.8618	ren warom	brenda watson
+587	930	0.8668	larry watson	brenda watson
+161	933	0.7695	brendan brazier	brenna aubrey
+969	935	0.9456	eben weiss	brent weeks
+47	936	0.9625	beth ain	bret baier
+161	936	0.9988	brendan brazier	bret baier
+351	936	0.9456	bree barton	bret baier
+404	936	0.9943	brooke barker	bret baier
+262	940	0.9461	peter v. brett	brett butler
+423	940	0.9461	peter v. brett	brett butler
+714	940	0.9461	peter v. brett	brett butler
+94	944	0.8902	nicole baart	brett nicholas
+211	944	0.8814	nickolas butler	brett nicholas
+38	947	0.9994	bryan denson	brian dennis
+81	947	0.9262	brian keyser	brian dennis
+38	948	0.9262	bryan denson	brian dutton
+312	949	0.999	brian freeman	brian f. martin
+448	949	1.0	martin	brian f. martin
+742	949	0.9552	lex martin	brian f. martin
+799	949	0.9969	kat martin	brian f. martin
+950	949	1.0	martin	brian f. martin
+312	950	0.9998	brian freeman	brian fleming
+81	951	0.9262	brian keyser	brian grazer
+892	951	0.79	alan gratz	brian grazer
+81	952	0.9262	brian keyser	brian greene
+312	952	1.0	brian freeman	brian greene
+312	953	0.8164	brian freeman	brian haig
+59	960	0.9979	blanche vaughan	brian k. vaughan
+59	961	0.9979	blanche vaughan	brian k. vaughan
+59	962	0.9979	blanche vaughan	brian k. vaughan
+81	963	0.9858	brian keyser	brian kilmeade
+81	964	0.9858	brian keyser	brian kilmeade
+81	966	0.9993	brian keyser	brian kramer
+969	967	0.9938	eben weiss	brian l. weiss
+312	969	0.7695	brian freeman	brian mcclellan
+312	972	0.9781	brian freeman	brian p. moran
+81	973	0.9625	brian keyser	brian pinkerton
+746	974	0.8169	ben dolnick	brian selznick
+81	975	0.9262	brian keyser	brian sibley
+81	976	0.9262	brian keyser	brian sibley
+81	979	0.997	brian keyser	brian stelter
+122	982	0.8618	brown mfa	bronwen evans
+370	982	0.9902	dan brown	bronwen evans
+371	982	0.9902	dan brown	bronwen evans
+907	982	0.9902	dan brown	bronwen evans
+173	986	0.921	luke harris	brooke harris
+404	986	0.8585	brooke barker	brooke harris
+469	986	0.997	brooke james	brooke harris
+469	987	0.9858	brooke james	brooke shields
+469	988	0.9262	brooke james	brooke siler
+577	988	0.9501	mike brooks	brooke siler
+962	990	0.98	eric weiner	brownstein,  weiner
+932	992	0.9221	carol campbell	bruce campbell
+823	995	0.9903	bruce jones	bruce fretts
+908	995	0.7953	rhett bruno	bruce fretts
+823	997	0.8169	bruce jones	bruce poon tip
+823	998	0.9903	bruce jones	bruce porter
